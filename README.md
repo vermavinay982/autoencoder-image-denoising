@@ -6,10 +6,10 @@ They were invented to help
 2. Reduce risk of overfitting in autoencoder
 3. Prevent autoencoder to learn a simple identity function (that would make it just repeat what is entered into the input)
 
+## Some Results
+![Result](recon.jpg)
+
 ## Features of AutoEncoder
 1. Denoise the image using DeepLearning
 2. Anomaly Detection with Keras, Tensorflow, Deep Learning
 3. Compressing the image to a latent space
-
-## Some Results
-![Result](recon.jpg)
